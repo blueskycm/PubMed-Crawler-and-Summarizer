@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+tqdm
+gspread
+oauth2client
+python-dotenv
+openai

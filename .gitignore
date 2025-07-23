@@ -1,0 +1,18 @@
+# 忽略 Python 快取資料夾
+__pycache__/
+
+# 忽略虛擬環境
+.venv/
+
+# 忽略 JSON 金鑰檔（很重要）
+*.json
+
+# 忽略所有 CSV 結果檔（如測試輸出）
+*.csv
+
+# 忽略個人化設定
+.idea/
+
+# 環境變數
+.env
+.env.yaml
